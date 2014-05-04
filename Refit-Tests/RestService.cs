@@ -84,7 +84,7 @@ namespace Refit.Tests
             result.Wait();
         }
 
-        interface IRequestBin
+        public interface IRequestBin
         {
             [Post("/1h3a5jm1")]
             Task Post();
