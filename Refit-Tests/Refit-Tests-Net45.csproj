@@ -74,6 +74,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GitHubApi.cs" />
     <Compile Include="IntegrationTestHelper.cs" />
     <Compile Include="InterfaceStubGenerator.cs" />
     <Compile Include="RequestBuilder.cs" />
